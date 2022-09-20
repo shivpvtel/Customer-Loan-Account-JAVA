@@ -15,7 +15,8 @@ Methods:
 * addLoanAccount(LoanAccount account) - adds a loan to the array list of loans for this customer.
 * printMonthlyReport() - prints all the information for all the accounts of this Customer. 
 
-Utilizes the toString() method of the corresponding loan class. 
+
+Utilizes the toString() method of the corresponding loan class
 The output of the printMonthlyReport() method should match the sample output displayed below.
 Note: make sure your output matches the output below including number of decimal places displayed and $ and % characters.
 Use the following code in your main function to test your classes, just copy and paste it into your main method:
@@ -63,39 +64,33 @@ run:
         Term of Loan in Months:       72
         Monthly Payment:              $401.46
         Vehicle VIN:                  IRQ3458977
-        
         Primary Mortgage Loan with:
         Principal:                    $250000.00
         Annual Interest Rate:         3.75%
         Term of Loan in Months:       360
         Monthly Payment:              $1157.79
         PMI Monthly Amount:           $35.12
-        
         Property Address:
                                       321 Main Street
                                       State College, PA 16801
-                                      
         Unsecured Loan with:
         Principal:                    $5000.00
         Annual Interest Rate:         10.75%
         Term of Loan in Months:       48
         Monthly Payment:              $128.62
- 
         Account Report for Customer:  Gal Gadot with SSN 444-55-6666
         Car Loan with:
         Principal:                    $12000.00
         Annual Interest Rate:         5.00%
         Term of Loan in Months:       60
         Monthly Payment:              $226.45
-        Vehicle VIN:                  NXK6767876
-        
+        Vehicle VIN:                  NXK6767876 
         Primary Mortgage Loan with:
         Principal:                    $375000.00 
         Annual Interest Rate:         2.50%
         Term of Loan in Months:       360
         Monthly Payment:              $1481.70
-        PMI Monthly Amount:           $53.12
-        
+        PMI Monthly Amount:           $53.12        
         Property Address:
                                       783 Maple Lane
                                       State College, PA 16801
