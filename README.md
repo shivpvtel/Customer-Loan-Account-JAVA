@@ -82,7 +82,7 @@ run:
         Term of Loan in Months:       48
         Monthly Payment:              $128.62
  
-        Account Report for Customer: 
+        Account Report for Customer:
                                       Gal Gadot with SSN 444-55-6666
         Car Loan with:
         Principal:                    $12000.00
