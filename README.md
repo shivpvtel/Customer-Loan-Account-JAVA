@@ -19,8 +19,8 @@ Methods:
 Note: make sure your output matches the output below including number of decimal places displayed and $ and % characters.
         
 Use the following code in your main function to test your classes, just copy and paste it into your main method:
-        
-        // Create different loan objects, at least one of each type.
+        '''JAVA
+       // Create different loan objects, at least one of each type.
                 CarLoan carLoan1 = new CarLoan(25000.00, 4.9, 72, "IRQ3458977");
                 CarLoan carLoan2 = new CarLoan(12000.00, 5, 60, "NXK6767876");
                 Address propertyAddress1 = new Address("321 Main Street", "State College", "PA", "16801");
@@ -46,6 +46,7 @@ Use the following code in your main function to test your classes, just copy and
                 for (Customer customer:customers){         
                         System.out.println(customer.printMonthlyReport());
                     }
+        '''
         
 The output from your program should look like the following:
 run:
