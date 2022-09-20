@@ -47,7 +47,7 @@ Use the following code in your main function to test your classes, just copy and
                 System.out.println(customer.printMonthlyReport());
         }
         ``` 
-        
+      
 The output from your program should look like the following:
 
 
