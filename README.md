@@ -56,8 +56,7 @@ run:
 
         Monthly Report of Customers by Loan Account
         
-        Account Report for Customer: 
-                                      Tony Stark with SSN 111-22-3333
+        Account Report for Customer:  Tony Stark with SSN 111-22-3333
         Car Loan with:
         Principal:                    $25000.00
         Annual Interest Rate:         4.90%
@@ -82,8 +81,7 @@ run:
         Term of Loan in Months:       48
         Monthly Payment:              $128.62
  
-        Account Report for Customer:
-                                      Gal Gadot with SSN 444-55-6666
+        Account Report for Customer:  Gal Gadot with SSN 444-55-6666
         Car Loan with:
         Principal:                    $12000.00
         Annual Interest Rate:         5.00%
