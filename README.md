@@ -48,7 +48,7 @@ Use the following code in your main function to test your classes, just copy and
         }
         ``` 
       
-The output from your program should look like the following:
+/*The output from your program should look like the following:
 
 
         Monthly Report of Customers by Loan Account
@@ -90,3 +90,4 @@ The output from your program should look like the following:
         Property Address:
                                       783 Maple Lane
                                       State College, PA 16801
+        */
